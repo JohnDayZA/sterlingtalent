@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
-import { ArrowRight, Clock, Shield, Zap } from "lucide-react";
+import { ArrowRight, Shield, Zap } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import WorldClocks from "@/components/home/WorldClocks";
 
 const HeroSection = () => {
   return (
@@ -13,22 +14,19 @@ const HeroSection = () => {
 
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-16 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
-          {/* Badge */}
-          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 text-primary mb-8">
-            <Clock className="h-4 w-4" />
-            <span className="text-sm font-medium">GMT+2 | Perfect European Time Zone Alignment</span>
-          </div>
+          {/* World Clocks */}
+          <WorldClocks />
 
           {/* Headline */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
             Premium IT Contractors from{" "}
-            <span className="text-gradient">South Africa</span>, Ready for Europe
+            <span className="text-gradient">South Africa</span>, Ready for the World
           </h1>
 
           {/* Subheading */}
           <p className="text-lg sm:text-xl text-white/70 mb-10 max-w-2xl mx-auto">
             Access experienced, vetted IT professionals aligned with your time zones. 
-            Same expertise as US/UK talent, seamless European collaboration.
+            Serving clients across Europe, the Americas, and Asia-Pacific.
           </p>
 
           {/* CTA Buttons */}
@@ -70,9 +68,11 @@ const HeroSection = () => {
               </div>
             </div>
             <div className="flex items-center justify-center gap-3 p-4 rounded-xl bg-white/5 backdrop-blur-sm border border-white/10">
-              <Clock className="h-8 w-8 text-accent" />
+              <div className="h-8 w-8 rounded-full bg-accent/20 flex items-center justify-center">
+                <span className="text-accent font-bold text-sm">20+</span>
+              </div>
               <div className="text-left">
-                <p className="text-2xl font-bold text-white">20+ Years</p>
+                <p className="text-2xl font-bold text-white">Years</p>
                 <p className="text-sm text-white/60">Experience</p>
               </div>
             </div>

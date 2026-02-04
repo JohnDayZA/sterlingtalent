@@ -1,20 +1,20 @@
-import { Clock, Users, ShieldCheck, Zap, HeartHandshake, Settings } from "lucide-react";
+import { Globe, Users, ShieldCheck, Zap, HeartHandshake, Settings } from "lucide-react";
 
 const benefits = [
   {
-    icon: Clock,
-    title: "European Time Zone Alignment",
-    description: "GMT+2 overlaps perfectly with UK and European business hours for real-time collaboration.",
+    icon: Globe,
+    title: "Global Time Zone Coverage",
+    description: "South Africa's GMT+2 enables real-time collaboration with Europe, morning overlap with Americas, and afternoon alignment with Asia-Pacific.",
   },
   {
     icon: Users,
     title: "Decades of Experience",
-    description: "Deep talent networks and industry expertise built over 20+ years of IT recruitment.",
+    description: "Deep talent networks and industry expertise built over 20+ years of IT recruitment across global markets.",
   },
   {
     icon: ShieldCheck,
     title: "Thoroughly Vetted Talent",
-    description: "All contractors screened for technical skills, communication, and remote-work readiness.",
+    description: "All contractors screened for technical skills, communication, and remote-work readiness for international clients.",
   },
   {
     icon: Zap,
@@ -44,7 +44,7 @@ const WhyChooseUs = () => {
           </h2>
           <p className="text-lg text-muted-foreground">
             We bridge the gap between world-class South African IT professionals 
-            and international companies seeking exceptional talent.
+            and companies across Europe, the Americas, and Asia-Pacific.
           </p>
         </div>
 

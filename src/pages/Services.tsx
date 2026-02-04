@@ -9,7 +9,6 @@ import {
   ClipboardCheck,
   MessageCircle,
   ShieldCheck,
-  Clock,
   Globe,
   Heart,
   Briefcase,
@@ -70,7 +69,7 @@ const vettingProcess = [
     description: "Reference checks and professional background screening",
   },
   {
-    icon: Clock,
+    icon: Globe,
     title: "Availability Confirmation",
     description: "Time zone compatibility and schedule availability check",
   },
@@ -234,19 +233,20 @@ const Services = () => {
                 </div>
               </div>
               <div className="p-8 rounded-2xl bg-gradient-hero text-white">
-                <Clock className="h-12 w-12 text-primary mb-6" />
-                <h3 className="text-2xl font-bold mb-4">Time Zone Advantage</h3>
+                <Globe className="h-12 w-12 text-primary mb-6" />
+                <h3 className="text-2xl font-bold mb-4">Global Time Zone Advantage</h3>
                 <p className="text-white/80 leading-relaxed">
-                  South Africa's GMT+2 time zone provides seamless overlap with European 
-                  business hours and enables real-time collaboration with minimal scheduling 
-                  friction. Work together in the same hours, not across overnight shifts.
+                  South Africa's GMT+2 position offers unique flexibility—seamless overlap 
+                  with European business hours, productive morning collaboration with the 
+                  Americas, and afternoon alignment with Asia-Pacific markets.
                 </p>
                 <div className="mt-6 p-4 bg-white/10 rounded-lg">
-                  <p className="font-semibold">Perfect alignment with:</p>
+                  <p className="font-semibold">Working hours overlap with:</p>
                   <ul className="mt-2 space-y-1 text-sm text-white/70">
-                    <li>• UK (GMT/BST): 1-2 hour difference</li>
-                    <li>• Central Europe (CET): Same time / 1 hour difference</li>
-                    <li>• Eastern Europe: Same time zone</li>
+                    <li>🇬🇧 UK & Europe: Full business day alignment</li>
+                    <li>🇺🇸 US East Coast: Morning overlap (6+ hours)</li>
+                    <li>🇭🇰 Hong Kong: Afternoon collaboration window</li>
+                    <li>🇯🇵 Japan: Late afternoon alignment</li>
                   </ul>
                 </div>
               </div>
