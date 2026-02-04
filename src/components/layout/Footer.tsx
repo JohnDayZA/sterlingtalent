@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <Link to="/" className="flex items-center gap-3 mb-4">
               <img src={logo} alt="Sterling Talent" className="h-14 w-14 object-contain brightness-0 invert" />
-              <span className="text-xl font-semibold tracking-wider" style={{ fontFamily: "'Cinzel', serif" }}>Sterling Talent</span>
+              <span className="text-2xl font-semibold tracking-wide" style={{ fontFamily: "Georgia, serif" }}>Sterling Talent</span>
             </Link>
             <p className="text-background/70 mb-6 max-w-md">
               Connecting world-class South African IT talent with European and international 
