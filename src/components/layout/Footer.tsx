@@ -10,9 +10,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
           {/* Company Info */}
           <div className="lg:col-span-2">
-            <Link to="/" className="flex items-center gap-2 mb-4">
-              <img src={logo} alt="Sterling Talent" className="h-10 w-auto brightness-0 invert" />
-              <span className="text-xl font-bold">Sterling Talent</span>
+            <Link to="/" className="flex items-center gap-3 mb-4">
+              <img src={logo} alt="Sterling Talent" className="h-14 w-14 object-contain brightness-0 invert" />
+              <span className="text-xl font-semibold tracking-wider" style={{ fontFamily: "'Cinzel', serif" }}>Sterling Talent</span>
             </Link>
             <p className="text-background/70 mb-6 max-w-md">
               Connecting world-class South African IT talent with European and international 
