@@ -21,9 +21,9 @@ const Header = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
-          <Link to="/" className="flex items-center gap-2">
-            <img src={logo} alt="Sterling Talent" className="h-10 w-auto" />
-            <span className="text-xl font-bold text-foreground hidden sm:block">
+          <Link to="/" className="flex items-center gap-3">
+            <img src={logo} alt="Sterling Talent" className="h-12 w-12 object-contain" />
+            <span className="text-xl font-semibold text-foreground hidden sm:block font-engraved tracking-wider" style={{ fontFamily: "'Cinzel', serif" }}>
               Sterling Talent
             </span>
           </Link>
