@@ -28,7 +28,7 @@ const strengths = [
   },
 ];
 
-const OurStrength = () => {
+const OurStrengths = () => {
   return (
     <section className="py-20 lg:py-28 bg-muted/50">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
@@ -87,4 +87,4 @@ const OurStrength = () => {
   );
 };
 
-export default OurStrength;
+export default OurStrengths;
