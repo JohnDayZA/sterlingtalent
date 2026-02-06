@@ -1,4 +1,4 @@
-ry to gmport { Award, Network, Target, Rocket, HeadphonesIcon } from "lucide-react";
+Import { Award, Network, Target, Rocket, HeadphonesIcon } from "lucide-react";
 
 const strengths = [
   {
