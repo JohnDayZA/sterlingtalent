@@ -1,4 +1,4 @@
-Import { Award, Network, Target, Rocket, HeadphonesIcon } from "lucide-react";
+import { Award, Network, Target, Rocket, HeadphonesIcon } from "lucide-react";
 
 const strengths = [
   {
