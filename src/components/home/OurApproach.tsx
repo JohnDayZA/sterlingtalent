@@ -48,7 +48,7 @@ const OurApproach = () => {
             </h3>
             <p className="text-white/80 leading-relaxed mb-6">
               Our founding team brings experience from across the recruitment landscape—having 
-              worked at, founded, built, and successfully exited over 10 recruitment companies. 
+              worked at, founded, built, or successfully exited over 10 recruitment ventures. 
               This depth of experience has taught us one fundamental truth: <span className="text-white font-semibold">it's all about relationships.</span>
             </p>
             <p className="text-white/80 leading-relaxed mb-8">
