@@ -36,7 +36,7 @@ const OurStrengths = () => {
           {/* Left Content */}
           <div>
             <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-6">
-              Our <span className="text-gradient">Strength</span>
+              Our <span className="text-gradient">Strengths</span>
             </h2>
             <p className="text-lg text-muted-foreground mb-8">
               Sterling Talent has built its reputation on excellence, reliability, and genuine 
