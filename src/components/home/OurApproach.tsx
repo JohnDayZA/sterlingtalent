@@ -17,9 +17,9 @@ const OurApproach = () => {
               unique strengths, technical capabilities, and areas for growth.
             </p>
             <p className="text-lg text-muted-foreground mb-8">
-              This thoughtful matching process—built on strong, personal relationships 
-              between our consultants, candidates, and clients—leads to placements that 
-              truly succeed and endure.
+              The art of matching candidates with your requirements is built on strong, 
+              personal relationships between our consultants, candidates, and clients, 
+              leading to placements that succeed and endure.
             </p>
             <div className="grid sm:grid-cols-2 gap-4">
               <div className="flex items-center gap-3 p-4 rounded-xl bg-muted/50 border border-border">
