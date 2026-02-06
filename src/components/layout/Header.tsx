@@ -24,7 +24,7 @@ const Header = () => {
           <Link to="/" className="flex items-center gap-3">
             <img src={logo} alt="STERLING TALENT" className="h-16 w-16 object-contain" />
             <span className="text-4xl font-semibold text-foreground hidden sm:block tracking-wide" style={{ fontFamily: "DejaVu Serif, serif" }}>
-              Sterling Talent
+              STERLING TALENT
             </span>
           </Link>
 
