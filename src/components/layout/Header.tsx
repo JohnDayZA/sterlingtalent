@@ -22,8 +22,8 @@ const Header = () => {
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3">
-            <img src={logo} alt="Sterling Talent" className="h-16 w-16 object-contain" />
-            <span className="text-2xl font-semibold text-foreground hidden sm:block tracking-wide" style={{ fontFamily: "DejaVu Serif, serif" }}>
+            <img src={logo} alt="STERLING TALENT" className="h-16 w-16 object-contain" />
+            <span className="text-4xl font-semibold text-foreground hidden sm:block tracking-wide" style={{ fontFamily: "DejaVu Serif, serif" }}>
               Sterling Talent
             </span>
           </Link>
