@@ -14,7 +14,7 @@ const OurApproach = () => {
               We take a personalized approach to recruitment, choosing to present fewer, 
               exceptionally qualified candidates rather than overwhelming you with options. 
               Before we share a CV, we invest time understanding each professional's 
-              unique strengths, technical capabilities, and areas for growth.
+              unique strengths, technical capabilities, and areas for growthx.
             </p>
             <p className="text-lg text-muted-foreground mb-8">
               The art of matching candidates with your requirements is built on strong, 
