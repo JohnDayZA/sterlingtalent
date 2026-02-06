@@ -251,7 +251,7 @@ const Contractors = () => {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">WhatsApp</p>
-                      <p className="font-medium text-foreground">Available for inquiries</p>
+                      <p className="font-medium text-foreground">+27 82 679 5526</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-4">
