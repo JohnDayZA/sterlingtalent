@@ -1,4 +1,4 @@
-import { Award, Network, Target, Rocket, HeadphonesIcon } from "lucide-react";
+ry to gmport { Award, Network, Target, Rocket, HeadphonesIcon } from "lucide-react";
 
 const strengths = [
   {
@@ -19,7 +19,7 @@ const strengths = [
   {
     icon: Rocket,
     title: "Rapid Deployment",
-    description: "Get your team member onboarded and productive within days, not weeks.",
+    description: "We try to get your team member onboarded and productive within days, not weeks.",
   },
   {
     icon: HeadphonesIcon,
