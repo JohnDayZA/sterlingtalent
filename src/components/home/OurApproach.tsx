@@ -59,7 +59,7 @@ const OurApproach = () => {
             <div className="flex items-center gap-4 pt-6 border-t border-white/20">
               <div className="text-center">
                 <p className="text-3xl font-bold text-white">10+</p>
-                <p className="text-sm text-white/60">Companies Founded</p>
+                <p className="text-sm text-white/60">Companies Involved With</p>
               </div>
               <div className="w-px h-12 bg-white/20" />
               <div className="text-center">
