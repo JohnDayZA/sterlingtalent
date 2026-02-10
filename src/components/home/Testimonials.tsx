@@ -2,7 +2,7 @@ import { Star, Quote } from "lucide-react";
 
 const testimonials = [
   {
-    quote: "Sterling Talent provided us with an exceptional DevOps engineer who integrated seamlessly with our team. The time zone alignment made collaboration effortless.",
+    quote: "Sterling Talent provided us. with an exceptional DevOps engineer who integrated seamlessly with our team. The time zone alignment made collaboration effortless.",
     author: "James Mitchellx",
     role: "CTO",
     company: "TechScale UK",
