@@ -25,7 +25,7 @@ const HeroSection = () => {
 
           {/* Subheading */}
           <p className="text-lg sm:text-xl text-white/70 mb-10 max-w-2xl mx-auto">
-            Access experienced, vetted IT professionals aligned with your time zones.. 
+            Access experienced, vetted IT professionals aligned with your time zones. 
             Serving clients across Europe, the Americas, and Asia-Pacific.
           </p>
 
