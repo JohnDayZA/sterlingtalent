@@ -8,7 +8,7 @@ const testimonials = [
     company: "Codesearch",
   },
   {
-    quote: "We've worked with several staffing agencies, but Sterling Talent's vetting process is unmatched. Every contractor they've sent has exceeded expectations.",
+    quote: "We've worked with several staffing agencies, but Sterling Talent's vetting process is unmatched. They provide contractors that exceed expectations.",
     author: "Sarah van der Berg",
     role: "Engineering Manager",
     company: "DataFlow Solutions",
