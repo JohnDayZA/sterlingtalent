@@ -2,7 +2,7 @@ import { Star, Quote } from "lucide-react";
 
 const testimonials = [
   {
-    quote: ""Sterling Talent understands the art of talent acquisition. During critical hiring phases, I've been consistently impressed by their ability to identify top-tier talent while ensuring a perfect cultural fit. They deliver outstanding service with a personal touch, making the entire process seamless for both hiring managers and candidates. If you're looking for a recruitment partner that prioritises quality and results, Sterling Talent is the real deal.",
+    quote: "Sterling Talent understands the art of talent acquisition. During critical hiring phases, I've been consistently impressed by their ability to identify top-tier talent while ensuring a perfect cultural fit. They deliver outstanding service with a personal touch, making the entire process seamless for both hiring managers and candidates. If you're looking for a recruitment partner that prioritises quality and results, Sterling Talent is the real deal.",
     author: "JB",
     role: "CTO",
     company: "Codesearch",
