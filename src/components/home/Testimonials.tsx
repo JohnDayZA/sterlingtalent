@@ -2,10 +2,10 @@ import { Star, Quote } from "lucide-react";
 
 const testimonials = [
   {
-    quote: "Sterling Talent provided us. with an exceptional DevOps engineer who integrated seamlessly with our team. The time zone alignment made collaboration effortless.",
-    author: "James Mitchell",
+    quote: ""Sterling Talent understands the art of talent acquisition. During critical hiring phases, I've been consistently impressed by their ability to identify top-tier talent while ensuring a perfect cultural fit. They deliver outstanding service with a personal touch, making the entire process seamless for both hiring managers and candidates. If you're looking for a recruitment partner that prioritises quality and results, Sterling Talent is the real deal.",
+    author: "JB",
     role: "CTO",
-    company: "TechScale UK",
+    company: "Codesearch",
   },
   {
     quote: "We've worked with several staffing agencies, but Sterling Talent's vetting process is unmatched. Every contractor they've sent has exceeded expectations.",
