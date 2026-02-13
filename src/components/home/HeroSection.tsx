@@ -19,8 +19,8 @@ const HeroSection = () => {
 
           {/* Headline */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-            Premium IT Contractors from{" "}
-            <span className="text-gradient">South Africa</span>, Ready for the World
+            Supporting Global Teams with{" "}
+            <span className="text-gradient">South African</span>, Expertise
           </h1>
 
           {/* Subheading */}
