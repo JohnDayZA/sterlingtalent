@@ -20,7 +20,7 @@ const HeroSection = () => {
           {/* Headline */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
             Supporting Global Teams with{" "}
-            <span className="text-gradient">South African</span>, Expertise
+            <span className="text-gradient">South African</span> Expertise
           </h1>
 
           {/* Subheading */}
