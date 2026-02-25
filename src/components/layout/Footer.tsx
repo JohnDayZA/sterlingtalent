@@ -69,7 +69,7 @@ const Footer = () => {
                 info@sterlingtalent.io
               </a>
               <a
-                href="https://wa.me/27000000000"
+                href="https://wa.me/27826795526"
                 className="flex items-center gap-2 text-background/70 hover:text-background transition-colors"
               >
                 <Phone className="h-4 w-4" />
