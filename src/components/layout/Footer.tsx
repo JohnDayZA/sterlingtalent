@@ -20,7 +20,9 @@ const Footer = () => {
             </p>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://www.linkedin.com/company/sterling-talent-za/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="p-2 rounded-full bg-background/10 hover:bg-background/20 transition-colors"
                 aria-label="LinkedIn"
               >
